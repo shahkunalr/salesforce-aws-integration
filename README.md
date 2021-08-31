@@ -7,7 +7,7 @@ Starter template for  Node.js AWS Lambda deployed using Terraform. Lambda create
 Install the following tools before getting started:
 
 - [ ] [Node.js](https://nodejs.org/en/)
-- [ ] [pnpm](https://pnpm.io/)
+- [ ] [jsforce](https://jsforce.github.io/)
 - [ ] [aws-cli](https://aws.amazon.com/cli/)
 - [ ] [Terraform](https://www.terraform.io/)
 
