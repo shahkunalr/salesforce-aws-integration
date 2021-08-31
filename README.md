@@ -1,4 +1,4 @@
-# salesforce-integration
+# salesforce-aws-integration
 
 Starter template for  Node.js AWS Lambda deployed using Terraform. Lambda creates a Salesforce contact using JsForce and then puts the contact object in AWS S3 bucket. 
 
